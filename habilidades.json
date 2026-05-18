@@ -1,0 +1,217 @@
+{
+    "sniper fotônico": {
+      "nome_exibicao": "Sniper Fotônico", "categoria": "Pika Pika", "icone": "⚡", "cor": 15844367,
+      "grau": "1º Grau", "duracao": "Instantâneo", "alcance": "Linha — 9m", "dano": "2d10", "tipo_dano": "Livre", "efeitos": "Acerto Automático", "atq_combinado": "✅ Sim",
+      "descricao": "Converte o braço em luz pura e dispara raio concentrado em linha reta. A velocidade torna esquiva praticamente impossível."
+    },
+    "cegamento estratégico": {
+      "nome_exibicao": "Cegamento Estratégico", "categoria": "Pika Pika", "icone": "⚡", "cor": 15844367,
+      "grau": "1º Grau", "duracao": "Instantâneo", "alcance": "Cone — 10m", "dano": "—", "tipo_dano": "—", "efeitos": "Condição: Cego (1 turno)", "atq_combinado": "❌ Não",
+      "descricao": "Flash de luz ofuscante em cone. Inimigos ficam cegos temporariamente, abrindo janela para ataque ou fuga segura."
+    },
+    "prisma mortal": {
+      "nome_exibicao": "Prisma Mortal", "categoria": "Pika Pika", "icone": "⚡", "cor": 15844367,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Área — 15m", "dano": "6d6", "tipo_dano": "Livre", "efeitos": "Ataques Múltiplos", "atq_combinado": "❌ Não",
+      "descricao": "Cria cristal de luz no ar que fragmenta o raio em múltiplos feixes com ângulos distintos, atingindo área inteira simultaneamente. CD de destreza para tomar metade do dano."
+    },
+    "afterimage forçada": {
+      "nome_exibicao": "Afterimage Forçada", "categoria": "Pika Pika", "icone": "⚡", "cor": 15844367,
+      "grau": "1º Grau", "duracao": "Concentração", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Vantagem (Defesa)", "atq_combinado": "❌ Não",
+      "descricao": "Ao se mover em alta velocidade, deixa imagem residual brilhante no lugar anterior. Funciona como isca para atrair ataques."
+    },
+    "velocidade assimétrica": {
+      "nome_exibicao": "Velocidade Assimétrica", "categoria": "Pika Pika", "icone": "⚡", "cor": 15844367,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Corpo a corpo", "dano": "6d6", "tipo_dano": "Livre", "efeitos": "Vantagem (Ataque) + Crítico", "atq_combinado": "✅ Sim",
+      "descricao": "Converte metade do corpo em luz para atravessar o ataque inimigo enquanto a outra metade contra-ataca fisicamente."
+    },
+    "nova solar": {
+      "nome_exibicao": "Nova Solar", "categoria": "Pika Pika", "icone": "⚡", "cor": 15844367,
+      "grau": "3º Grau", "duracao": "Instantâneo", "alcance": "Área — 10m", "dano": "Base do Grau", "tipo_dano": "Livre", "efeitos": "Ataque de Cerco + Efeito Colateral", "atq_combinado": "❌ Não",
+      "descricao": "Acumula luz ao redor do corpo em esfera crescente e libera tudo de uma vez. Explosão omnidirecional massiva. Deixa o usuário temporariamente exausto."
+    },
+    "garra de fumaça": {
+      "nome_exibicao": "Garra de Fumaça", "categoria": "Moku Moku", "icone": "💨", "cor": 9868950,
+      "grau": "1º Grau", "duracao": "Concentração", "alcance": "Linha — 9m", "dano": "—", "tipo_dano": "—", "efeitos": "Condição: Imobilizado", "atq_combinado": "✅ Sim",
+      "descricao": "Projeta tentáculos densos de fumaça que envolvem membros do alvo. Mantém o alvo preso enquanto houver concentração."
+    },
+    "cortina de guerra": {
+      "nome_exibicao": "Cortina de Guerra", "categoria": "Moku Moku", "icone": "💨", "cor": 9868950,
+      "grau": "1º Grau", "duracao": "Concentração", "alcance": "Área — 20m", "dano": "—", "tipo_dano": "—", "efeitos": "Condição: Cego (área)", "atq_combinado": "❌ Não",
+      "descricao": "Preenche área inteira com fumaça densa. Inimigos ficam cegos enquanto o usuário navega livremente pela névoa."
+    },
+    "escudo gasoso": {
+      "nome_exibicao": "Escudo Gasoso", "categoria": "Moku Moku", "icone": "💨", "cor": 9868950,
+      "grau": "1º Grau", "duracao": "Reação", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Vantagem (Defesa)", "atq_combinado": "❌ Não",
+      "descricao": "Transforma parcialmente o corpo em fumaça ao receber golpe físico. O soco atravessa sem causar dano — esquiva passiva instantânea."
+    },
+    "sufocamento lento": {
+      "nome_exibicao": "Sufocamento Lento", "categoria": "Moku Moku", "icone": "💨", "cor": 9868950,
+      "grau": "2º Grau", "duracao": "Concentração", "alcance": "Linha — 9m", "dano": "6d6", "tipo_dano": "Livre", "efeitos": "Condição: Enfraquecido", "atq_combinado": "❌ Não",
+      "descricao": "Força fumaça densa ao redor do rosto do alvo. Causa dano progressivo (por turno) e força o inimigo a recuar. Não há como escapar, somente resistir a fumaça - CD de constituição."
+    },
+    "forma névoa": {
+      "nome_exibicao": "Forma Névoa", "categoria": "Moku Moku", "icone": "💨", "cor": 9868950,
+      "grau": "1º Grau", "duracao": "Concentração", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Voo + Imune a Ataques Físicos", "atq_combinado": "❌ Não",
+      "descricao": "O usuário se dissolve completamente em fumaça. Projéteis e golpes físicos atravessam sem causar dano."
+    },
+    "explosão de névoa": {
+      "nome_exibicao": "Explosão de Névoa", "categoria": "Moku Moku", "icone": "💨", "cor": 9868950,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Área — 12m", "dano": "6d6", "tipo_dano": "Livre", "efeitos": "Cego (área) + Empurrão", "atq_combinado": "❌ Não",
+      "descricao": "Comprime fumaça densa e expulsa em onda expansiva. Cega todos na área e empurra inimigos para longe do centro."
+    },
+    "martelo gigante": {
+      "nome_exibicao": "Martelo Gigante", "categoria": "Kiku Kiku", "icone": "📏", "cor": 3066993,
+      "grau": "1º Grau", "duracao": "Instantâneo", "alcance": "Corpo a corpo", "dano": "2d10", "tipo_dano": "Livre", "efeitos": "Empurrão + Crítico", "atq_combinado": "✅ Sim",
+      "descricao": "Aumenta o punho no exato momento do impacto. O inimigo vê golpe normal vindo — leva impacto devastador."
+    },
+    "bala miniaturizada": {
+      "nome_exibicao": "Bala Miniaturizada", "categoria": "Kiku Kiku", "icone": "📏", "cor": 3066993,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Linha — 15m", "dano": "6d6", "tipo_dano": "Livre", "efeitos": "Crítico + Efeito Colateral", "atq_combinado": "✅ Sim",
+      "descricao": "Encolhe objeto pesado até ser imperceptível, arremessa em alta velocidade e expande no contato. Impacto cinético massivo."
+    },
+    "armadilha de escala": {
+      "nome_exibicao": "Armadilha de Escala", "categoria": "Kiku Kiku", "icone": "📏", "cor": 3066993,
+      "grau": "1º Grau", "duracao": "Concentração", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Vantagem (Furtividade)", "atq_combinado": "❌ Não",
+      "descricao": "Encolhe o corpo para se esconder em lugares impossíveis. Ideal para emboscadas ou fugas criativas."
+    },
+    "distorção de terreno": {
+      "nome_exibicao": "Distorção de Terreno", "categoria": "Kiku Kiku", "icone": "📏", "cor": 3066993,
+      "grau": "1º Grau", "duracao": "Concentração", "alcance": "Área — 10m", "dano": "—", "tipo_dano": "—", "efeitos": "Controle de Área", "atq_combinado": "❌ Não",
+      "descricao": "Aumenta um obstáculo no campo (pedra, pilar, porta) para bloquear passagem ou separar grupos de inimigos."
+    },
+    "golpe colossal": {
+      "nome_exibicao": "Golpe Colossal", "categoria": "Kiku Kiku", "icone": "📏", "cor": 3066993,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Arco — 5m", "dano": "6d6", "tipo_dano": "Livre", "efeitos": "Ataque de Cerco + Empurrão", "atq_combinado": "❌ Não",
+      "descricao": "Aumenta ambos os braços e desfere golpe em arco. Atinge todos os inimigos em semicírculo à frente."
+    },
+    "gigantismo parcial": {
+      "nome_exibicao": "Gigantismo Parcial", "categoria": "Kiku Kiku", "icone": "📏", "cor": 3066993,
+      "grau": "2º Grau", "duracao": "Concentração", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Aumentar CR + Vantagem (Força)", "atq_combinado": "❌ Não",
+      "descricao": "Aumenta apenas torso e braços, ganhando alcance e força bruta sem perder agilidade de movimentação."
+    },
+    "espiral de lâminas": {
+      "nome_exibicao": "Espiral de Lâminas", "categoria": "Guarda-chuva", "icone": "☂️", "cor": 10181046,
+      "grau": "1º Grau", "duracao": "Instantâneo", "alcance": "Corpo a corpo", "dano": "2d10", "tipo_dano": "Cortante", "efeitos": "Ataques Múltiplos", "atq_combinado": "✅ Sim",
+      "descricao": "Gira o guarda-chuva aberto em alta velocidade na direção do alvo. As lâminas das pontas criam um moedor rotativo difícil de bloquear."
+    },
+    "barreira giratória": {
+      "nome_exibicao": "Barreira Giratória", "categoria": "Guarda-chuva", "icone": "☂️", "cor": 10181046,
+      "grau": "1º Grau", "duracao": "Reação", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Vantagem (Defesa) + Empurrão", "atq_combinado": "❌ Não",
+      "descricao": "Abre o guarda-chuva e o gira na frente do corpo para defletir projéteis. A borda com lâminas corta qualquer coisa que tente atravessar."
+    },
+    "lança da chuva": {
+      "nome_exibicao": "Lança da Chuva", "categoria": "Guarda-chuva", "icone": "☂️", "cor": 10181046,
+      "grau": "1º Grau", "duracao": "Instantâneo", "alcance": "Linha — 8m", "dano": "2d10", "tipo_dano": "Perfurante", "efeitos": "Acerto Crítico", "atq_combinado": "✅ Sim",
+      "descricao": "Fecha o guarda-chuva e arremessa como lança. A ponta concentra força brutal no ponto de impacto. Pode ser recuperado após o combate."
+    },
+    "gancho de vento": {
+      "nome_exibicao": "Gancho de Vento", "categoria": "Guarda-chuva", "icone": "☂️", "cor": 10181046,
+      "grau": "1º Grau", "duracao": "Instantâneo", "alcance": "Linha — 12m", "dano": "—", "tipo_dano": "—", "efeitos": "Vantagem (Furtividade + Acrobacia)", "atq_combinado": "❌ Não",
+      "descricao": "Usa o guarda-chuva aberto para planar ou o cabo para se pendurar e reposicionar rapidamente. Alta mobilidade vertical."
+    },
+    "estocada perfurante": {
+      "nome_exibicao": "Estocada Perfurante", "categoria": "Guarda-chuva", "icone": "☂️", "cor": 10181046,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Corpo a corpo", "dano": "6d6", "tipo_dano": "Perfurante", "efeitos": "Ignora Armadura + Crítico", "atq_combinado": "✅ Sim",
+      "descricao": "Concentra toda a força em golpe de ponta único. A lâmina da extremidade penetra defesas e armaduras sem dificuldade."
+    },
+    "redemoinho cortante": {
+      "nome_exibicao": "Redemoinho Cortante", "categoria": "Guarda-chuva", "icone": "☂️", "cor": 10181046,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Área — 4m", "dano": "6d6", "tipo_dano": "Cortante", "efeitos": "Ataque de Cerco + Empurrão", "atq_combinado": "❌ Não",
+      "descricao": "Gira com o guarda-chuva aberto ao redor do próprio corpo, atingindo tudo ao redor com as lâminas das pontas."
+    },
+    "laser invisível": {
+      "nome_exibicao": "Laser Invisível", "categoria": "Combos", "icone": "💥", "cor": 15158332,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Linha — 20m", "dano": "6d6", "tipo_dano": "Livre", "efeitos": "Desvantagem (Defesa) + Acerto Auto.", "atq_combinado": "✅ Sim",
+      "descricao": "[ Fumaça + Luz ] Cobre área com fumaça e dispara raio de luz por dentro. O inimigo não vê o ataque vir — só sente o impacto."
+    },
+    "nuvem expansiva": {
+      "nome_exibicao": "Nuvem Expansiva", "categoria": "Combos", "icone": "💥", "cor": 15158332,
+      "grau": "2º Grau", "duracao": "Concentração", "alcance": "Área — 15m", "dano": "—", "tipo_dano": "—", "efeitos": "Cego (área) + Ataque de Cerco", "atq_combinado": "❌ Não",
+      "descricao": "[ Tamanho + Fumaça ] Comprime fumaça em bolha microscópica e libera de uma vez. Expansão repentina cobre área enorme instantaneamente."
+    },
+    "canhão solar": {
+      "nome_exibicao": "Canhão Solar", "categoria": "Combos", "icone": "💥", "cor": 15158332,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Área — 20m", "dano": "6d6", "tipo_dano": "Livre", "efeitos": "Ataques Múltiplos + Cego", "atq_combinado": "❌ Não",
+      "descricao": "[ Tamanho + Luz ] Aumenta área de emissão de luz do corpo. Em vez de raio fino, vira onda larga de energia luminosa atingindo múltiplos inimigos."
+    },
+    "armadilha total": {
+      "nome_exibicao": "Armadilha Total", "categoria": "Combos", "icone": "💥", "cor": 15158332,
+      "grau": "3º Grau", "duracao": "Instantâneo", "alcance": "Corpo a corpo", "dano": "Base do Grau", "tipo_dano": "Livre", "efeitos": "Acerto Auto. + Crítico + Vantagem", "atq_combinado": "❌ Não",
+      "descricao": "[ Tamanho + Fumaça + Luz ] Encolhe, some na fumaça, e quando o inimigo avança dispara raio com punho aumentado. Três frutas, zero aviso."
+    },
+    "lança de luz": {
+      "nome_exibicao": "Lança de Luz", "categoria": "Combos", "icone": "💥", "cor": 15158332,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Linha — 25m", "dano": "6d6", "tipo_dano": "Perfurante", "efeitos": "Acerto Auto. + Crítico", "atq_combinado": "✅ Sim",
+      "descricao": "[ Luz + Guarda-chuva ] Envolve o guarda-chuva em luz pura e o arremessa como lança fotônica. Velocidade próxima à da luz; impossível desviar."
+    },
+    "redemoinho fotônico": {
+      "nome_exibicao": "Redemoinho Fotônico", "categoria": "Combos", "icone": "💥", "cor": 15158332,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Área — 8m", "dano": "6d6", "tipo_dano": "Cortante", "efeitos": "Ataque de Cerco + Cego", "atq_combinado": "❌ Não",
+      "descricao": "[ Luz + Guarda-chuva ] Gira o guarda-chuva enquanto emite raios de luz pelas pontas. Moedor luminoso que cega e corta tudo ao redor."
+    },
+    "véu de fumaça cortante": {
+      "nome_exibicao": "Véu de Fumaça Cortante", "categoria": "Combos", "icone": "💥", "cor": 15158332,
+      "grau": "1º Grau", "duracao": "Concentração", "alcance": "Área — 10m", "dano": "2d10", "tipo_dano": "Cortante", "efeitos": "Cego (área) + Condição: Sangrando", "atq_combinado": "❌ Não",
+      "descricao": "[ Fumaça + Guarda-chuva ] Espalha fumaça densa e gira o guarda-chuva dentro dela. Os inimigos cegos não veem as lâminas até já terem sido cortados."
+    },
+    "guarda-chuva colossal": {
+      "nome_exibicao": "Guarda-chuva Colossal", "categoria": "Combos", "icone": "💥", "cor": 15158332,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Área — 6m", "dano": "6d6", "tipo_dano": "Cortante", "efeitos": "Ataque de Cerco + Empurrão", "atq_combinado": "❌ Não",
+      "descricao": "[ Tamanho + Guarda-chuva ] Aumenta o guarda-chuva para proporções enormes e o abre de uma vez. Varredura brutal de área ao redor."
+    },
+    "espelho de névoa": {
+      "nome_exibicao": "Espelho de Névoa", "categoria": "Combos", "icone": "💥", "cor": 15158332,
+      "grau": "1º Grau", "duracao": "Reação", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Reflete Projétil + Vantagem (Defesa)", "atq_combinado": "❌ Não",
+      "descricao": "[ Fumaça + Guarda-chuva ] Cobre o guarda-chuva com fumaça condensada que deflexiona projéteis de energia. Reação de grande impacto."
+    },
+    "miniatura letal": {
+      "nome_exibicao": "Miniatura Letal", "categoria": "Combos", "icone": "💥", "cor": 15158332,
+      "grau": "2º Grau", "duracao": "Instantâneo", "alcance": "Linha — 20m", "dano": "6d6", "tipo_dano": "Perfurante", "efeitos": "Crítico + Acerto Auto.", "atq_combinado": "✅ Sim",
+      "descricao": "[ Tamanho + Guarda-chuva ] Encolhe o guarda-chuva ao tamanho de uma agulha e o lança em velocidade extrema. Expande dentro do alvo no impacto."
+    },
+    "estudo de campo": {
+        "nome_exibicao": "Estudo de Campo", "categoria": "Arqueólogo", "icone": "📜", "cor": 9260846,
+        "grau": "Profissão", "duracao": "Concentração", "alcance": "Área", "dano": "—", "tipo_dano": "—", "efeitos": "Vantagem em Investigação e Percepção", "atq_combinado": "❌ Não",
+        "descricao": "Analisa minuciosamente a arquitetura, armadilhas e segredos ocultos do ambiente ao seu redor."
+    },
+    "análise de fraquezas": {
+        "nome_exibicao": "Análise de Fraquezas", "categoria": "Arqueólogo", "icone": "🧐", "cor": 9260846,
+        "grau": "Profissão", "duracao": "Instantâneo", "alcance": "Visual", "dano": "—", "tipo_dano": "—", "efeitos": "Revela resistências e fraquezas do alvo", "atq_combinado": "❌ Não",
+        "descricao": "Usa seu vasto conhecimento acadêmico e histórico para identificar falhas estruturais ou pontos fracos na armadura do inimigo."
+    },
+    "linguagem de espião": {
+        "nome_exibicao": "Linguagem de Espião", "categoria": "Espionagem", "icone": "🕵️", "cor": 3447003,
+        "grau": "Passiva", "duracao": "Constante", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Criar e decifrar códigos ocultos", "atq_combinado": "❌ Não",
+        "descricao": "Domina perfeitamente jargões, códigos cifrados e sinais manuais discretos utilizados por agências de inteligência."
+    },
+    "aprendizado rápido": {
+        "nome_exibicao": "Aprendizado Rápido", "categoria": "Espionagem", "icone": "🧠", "cor": 3447003,
+        "grau": "Passiva", "duracao": "Constante", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Facilidade em absorver dialetos e padrões", "atq_combinado": "❌ Não",
+        "descricao": "Sua mente altamente treinada absorve informações locais, comportamentos e novos conhecimentos com velocidade impressionante."
+    },
+    "execução impecável": {
+        "nome_exibicao": "Execução Impecável", "categoria": "Rokushiki", "icone": "🎯", "cor": 10038562,
+        "grau": "Passiva", "duracao": "Constante", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Reduz o custo de Rokushiki em 2 PP (mínimo 1 PP)", "atq_combinado": "❌ Não",
+        "descricao": "Otimiza perfeitamente a energia corporal ao executar técnicas de Rokushiki, poupando seu vigor."
+    },
+    "soru": {
+        "nome_exibicao": "Soru", "categoria": "Rokushiki", "icone": "⚡", "cor": 10038562,
+        "grau": "Técnica", "duracao": "Instantâneo", "alcance": "Movimento", "dano": "—", "tipo_dano": "—", "efeitos": "Deslocamento em alta velocidade", "atq_combinado": "❌ Não",
+        "descricao": "Move-se em velocidade explosiva, parecendo desaparecer completamente do campo de visão comum."
+    },
+    "kami-e": {
+        "nome_exibicao": "Kami-e", "categoria": "Rokushiki", "icone": "🍃", "cor": 10038562,
+        "grau": "Técnica", "duracao": "Reação", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Bônus massivo para esquivar de golpes", "atq_combinado": "❌ Não",
+        "descricao": "Relaxa completamente os músculos do corpo para flutuar e desviar de ataques fluidamente como uma folha de papel."
+    },
+    "geppo": {
+        "nome_exibicao": "Geppo", "categoria": "Rokushiki", "icone": "☁️", "cor": 10038562,
+        "grau": "Técnica", "duracao": "Movimento", "alcance": "Pessoal", "dano": "—", "tipo_dano": "—", "efeitos": "Capacidade de caminhar e saltar no ar", "atq_combinado": "❌ Não",
+        "descricao": "Chuta o próprio ar com força e cadência exatas para se deslocar verticalmente e flutuar pelo cenário."
+    },
+    "ataque de oportunidade traiçoeiro": {
+        "nome_exibicao": "Oportunidade Traiçoeira", "categoria": "Combate", "icone": "🐍", "cor": 15158332,
+        "grau": "Talento", "duracao": "Reação", "alcance": "Corpo a corpo", "dano": "Arma", "tipo_dano": "Livre", "efeitos": "Ataque de oportunidade quando o alvo entra ou sai do alcance", "atq_combinado": "❌ Não",
+        "descricao": "Reage instantaneamente contra qualquer oponente que se mova voluntariamente para dentro ou para fora do seu alcance de combate."
+    }
+  }
